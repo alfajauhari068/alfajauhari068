@@ -52,7 +52,7 @@ I have hands-on experience in:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alfajauhari068&show_icons=true&theme=shadow_blue&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfajauhari068&theme=shadow_blue&hide_border=true" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=alfajauhari068&theme=shadow_blue&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
