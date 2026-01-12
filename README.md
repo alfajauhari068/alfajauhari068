@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=500&lines=<h1><strong>👋+Laravel+Backend+Developer;Flutter+Mobile+Developer;REST+API+%26+MySQL;Open+for+Internship+and+Team+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=500&lines=<h1><strong>Laravel+Backend+Developer;Flutter+Mobile+Developer;REST+API+%26+MySQL;Open+for+Internship+and+Team+Projects" />
 </p>
 
 <hr/>
