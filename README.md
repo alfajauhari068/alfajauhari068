@@ -1,1 +1,45 @@
-# 💫 About Me: Hi, I'm Alfa 👋 <br>A junior Web & Mobile Developer and undergraduate student who focuses on building practical and functional applications.<br><br>I work mainly with **Laravel (PHP)** for backend systems and **Flutter** for mobile apps, integrated through **REST APIs** and **MySQL** databases. <br>I’m experienced in building CRUD systems, authentication with multi-roles, admin dashboards, and data reporting.<br><br>Currently seeking opportunities for **internships, junior developer roles, or team-based projects** where I can grow and contribute to real-world applications.<br><br>**Tech Stack:** <br>PHP · Laravel · MySQL · Flutter · Dart · Bootstrap · Git & GitHub<br> ## 🌐 Socials: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alfajauhari068@gmail.com) # 💻 Tech Stack: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) # 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=alfajauhari068&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=alfajauhari068&theme=shadow_blue&hide_border=true)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfajauhari068&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false&layout=compact) ## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=alfajauhari068&theme=dracula&no-frame=false&no-bg=false&margin-w=4) ### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) ### 🔝 Top Contributed Repo ![](https://github-contributor-stats.vercel.app/api?username=alfajauhari068&limit=5&theme=dark&combine_all_yearly_contributions=true) --- [![](https://visitcount.itsvg.in/api?id=alfajauhari068&icon=2&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me: Hi, I'm Alfa 👋
+
+I am a junior Web & Mobile Developer and an undergraduate student who focuses on building practical, functional applications. I primarily work with Laravel (PHP) for backend development and Flutter (Dart) for mobile apps. I enjoy learning new technologies and contributing to open-source projects.
+
+## 🔭 Currently
+Working on improving my skills in full-stack development and building real-world projects to strengthen my portfolio.
+
+## 🛠️ Skills
+- Backend: Laravel, PHP, REST APIs, MySQL
+- Frontend: HTML, CSS, JavaScript, (Vue.js / React - add if applicable)
+- Mobile: Flutter, Dart
+- Tools: Git, Composer, npm, Docker
+
+## 📂 Projects
+See my GitHub repositories for examples of my work: https://github.com/alfajauhari068
+(You can add highlights of specific projects here.)
+
+## 📫 Contact
+- GitHub: https://github.com/alfajauhari068
+- Email: (add your email here)
+
+---
+
+Terjemahan singkat (Bahasa Indonesia)
+
+# 💫 Tentang Saya: Halo, saya Alfa 👋
+
+Saya adalah pengembang Web & Mobile junior dan mahasiswa yang berfokus pada pembuatan aplikasi yang praktis dan fungsional. Saya terutama menggunakan Laravel (PHP) untuk backend dan Flutter (Dart) untuk aplikasi mobile. Saya senang mempelajari teknologi baru dan berkontribusi pada proyek open-source.
+
+## 🔭 Saat ini
+Sedang mengembangkan kemampuan full-stack dan membangun proyek nyata untuk memperkuat portofolio.
+
+## 🛠️ Keahlian
+- Backend: Laravel, PHP, REST API, MySQL
+- Frontend: HTML, CSS, JavaScript
+- Mobile: Flutter, Dart
+- Alat: Git, Composer, npm, Docker
+
+## 📂 Proyek
+Lihat repositori GitHub saya untuk contoh pekerjaan: https://github.com/alfajauhari068
+(Tambahkan sorotan proyek tertentu jika diinginkan.)
+
+## 📫 Kontak
+- GitHub: https://github.com/alfajauhari068
+- Email: (tambahkan email Anda di sini)
