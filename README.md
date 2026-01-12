@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0F172A&height=160&section=header&text=Hi%2C%20I'm%20Alfa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-<h1><strong>👋</strong></h1>
 <p align="center">
   <strong>Junior Web & Mobile Developer · Undergraduate Student</strong>
 </p>
@@ -12,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=500&lines=Laravel+Backend+Developer;Flutter+Mobile+Developer;REST+API+%26+MySQL;Open+for+Internship+and+Team+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=500&lines=<h1><strong>👋</strong></h1>+Laravel+Backend+Developer;Flutter+Mobile+Developer;REST+API+%26+MySQL;Open+for+Internship+and+Team+Projects" />
 </p>
 
 <hr/>
