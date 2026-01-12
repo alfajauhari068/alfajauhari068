@@ -1,3 +1,20 @@
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hi, I'm Alfa 👋</h1>
+
+<p align="center">
+  <strong>Junior Web & Mobile Developer · Undergraduate Student</strong>
+</p>
+
+<p align="center">
+  Building practical, functional, and scalable applications
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=500&lines=Laravel+Backend+Developer;Flutter+Mobile+Developer;REST+API+%26+MySQL;Open+for+Internship+and+Team+Projects" />
+</p>
+
+<hr/>
+
 # 💫 About Me: Hi, I'm Alfa 👋
 
 I am a junior Web & Mobile Developer and an undergraduate student who focuses on building practical, functional applications. I primarily work with Laravel (PHP) for backend development and Flutter (Dart) for mobile apps. I enjoy learning new technologies and contributing to open-source projects.
