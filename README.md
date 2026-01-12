@@ -1,10 +1,12 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0F172A&height=160&section=header&text=Hi%2C%20I'm%20Alfa&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0F172A&height=140&section=header&animation=fadeIn" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Alfa+%F0%9F%91%8B" />
-</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Alfa+%F0%9F%91%8B" />
+</h1>
+
 
 <p align="center">
   <strong>Junior Web & Mobile Developer · Undergraduate Student</strong>
