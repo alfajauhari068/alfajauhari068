@@ -50,7 +50,7 @@ I have hands-on experience in:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfajauhari068&layout=compact&theme=shadow_blue&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfajauhari068&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 
@@ -59,9 +59,8 @@ I have hands-on experience in:
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alfajauhari068&theme=onedark&margin-w=10&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alfajauhari068&theme=flat&no-frame=true&column=5" />
 </p>
-
 
 ---
 
