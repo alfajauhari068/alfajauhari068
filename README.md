@@ -65,7 +65,7 @@ I have hands-on experience in:
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=alfajauhari068&color=3" />
+  <img src="https://visitcount.itsvg.in/api?id=alfajauhari068&color=0" />
 </p>
 
 ---
