@@ -45,21 +45,23 @@ I have hands-on experience in:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfajauhari068&show_icons=true&hide_border=true&theme=transparent" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alfajauhari068&hide_border=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfajauhari068&show_icons=true&theme=shadow_blue&hide_border=true" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=alfajauhari068&theme=shadow_blue&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfajauhari068&layout=compact&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfajauhari068&layout=compact&theme=shadow_blue&hide_border=true"/>
 </p>
+
 
 ---
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alfajauhari068&theme=flat&no-frame=true&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alfajauhari068&theme=onedark&margin-w=10&no-frame=true&column=6" />
 </p>
+
 
 ---
 
