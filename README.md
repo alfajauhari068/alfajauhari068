@@ -15,48 +15,41 @@
 
 <hr/>
 
-# 💫 About Me: Hi, I'm Alfa 👋
+# 💫 About Me
 
-I am a junior Web & Mobile Developer and an undergraduate student who focuses on building practical, functional applications. I primarily work with Laravel (PHP) for backend development and Flutter (Dart) for mobile apps. I enjoy learning new technologies and contributing to open-source projects.
+I am a **Junior Web & Mobile Developer** and an **undergraduate student** with a strong focus on building **practical and functional applications**.
 
-## 🔭 Currently
-Working on improving my skills in full-stack development and building real-world projects to strengthen my portfolio.
-
-## 🛠️ Skills
-- Backend: Laravel, PHP, REST APIs, MySQL
-- Frontend: HTML, CSS, JavaScript, (Vue.js / React - add if applicable)
-- Mobile: Flutter, Dart
-- Tools: Git, Composer, npm, Docker
-
-## 📂 Projects
-See my GitHub repositories for examples of my work: https://github.com/alfajauhari068
-(You can add highlights of specific projects here.)
-
-## 📫 Contact
-- GitHub: https://github.com/alfajauhari068
-- Email: (add your email here)
+I primarily work with **Laravel (PHP)** for backend development and **Flutter (Dart)** for mobile applications. I enjoy learning new technologies and applying them to real-world projects.
 
 ---
 
-Terjemahan singkat (Bahasa Indonesia)
+## 🔭 Currently
 
-# 💫 Tentang Saya: Halo, saya Alfa 👋
+- Improving my **full-stack development** skills  
+- Building **real-world projects** to strengthen my portfolio  
+- Exploring best practices in **REST API development** and **application architecture**
 
-Saya adalah pengembang Web & Mobile junior dan mahasiswa yang berfokus pada pembuatan aplikasi yang praktis dan fungsional. Saya terutama menggunakan Laravel (PHP) untuk backend dan Flutter (Dart) untuk aplikasi mobile. Saya senang mempelajari teknologi baru dan berkontribusi pada proyek open-source.
+---
 
-## 🔭 Saat ini
-Sedang mengembangkan kemampuan full-stack dan membangun proyek nyata untuk memperkuat portofolio.
+## 🛠️ Skills
 
-## 🛠️ Keahlian
-- Backend: Laravel, PHP, REST API, MySQL
-- Frontend: HTML, CSS, JavaScript
-- Mobile: Flutter, Dart
-- Alat: Git, Composer, npm, Docker
+- **Backend**: Laravel, PHP, REST APIs, MySQL  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Mobile**: Flutter, Dart  
+- **Tools & Workflow**: Git, Composer, npm, Docker  
 
-## 📂 Proyek
-Lihat repositori GitHub saya untuk contoh pekerjaan: https://github.com/alfajauhari068
-(Tambahkan sorotan proyek tertentu jika diinginkan.)
+---
 
-## 📫 Kontak
-- GitHub: https://github.com/alfajauhari068
-- Email: (tambahkan email Anda di sini)
+## 📂 Projects
+
+You can find examples of my work in my GitHub repositories:  
+🔗 https://github.com/alfajauhari068  
+
+*(Project highlights can be added here if needed.)*
+
+---
+
+## 📫 Contact
+
+- **GitHub**: https://github.com/alfajauhari068  
+- **Email**: alfajauhari068@gmail.com
