@@ -38,6 +38,12 @@ I primarily work with **Laravel (PHP)** for backend development and **Flutter (D
 - **Mobile**: Flutter, Dart  
 - **Tools & Workflow**: Git, Composer, npm, Docker  
 
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,flutter,dart,js,html,css,bootstrap,git,github,figma" />
+</p>
+
 ---
 
 ## 📂 Projects
