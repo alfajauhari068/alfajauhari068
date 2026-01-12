@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Alfa+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=50&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Alfa+%F0%9F%91%8B" />
 </h1>
 
 
