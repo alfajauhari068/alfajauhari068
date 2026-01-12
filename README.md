@@ -64,7 +64,7 @@ I have hands-on experience in:
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alfajauhari068&theme=onedark&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alfajauhari068&theme=onedark&margin-w=10&no-frame=true&column=6" />
 </p>
 
 ---
@@ -72,7 +72,7 @@ I have hands-on experience in:
 ## ✍️ Developer Insight
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
 </p>
 
 ---
@@ -80,7 +80,7 @@ I have hands-on experience in:
 ## 🔝 Contribution Highlights
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=alfajauhari068&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfajauhari068&theme=github-compact&hide_border=true" />
 </p>
 
 ---
@@ -92,3 +92,4 @@ I have hands-on experience in:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=100&section=footer" />
 </p>
+
