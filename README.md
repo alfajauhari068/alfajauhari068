@@ -71,10 +71,6 @@ You can find examples of my work in my GitHub repositories:
 </a>
 &nbsp;&nbsp;
 <a href="https://wa.me/6281234567890?text=Hello%20Alfa,%20I%20found%20your%20GitHub" target="_blank">
-  <img src="https://skillicons.dev/icons?i=whatsapp" width="28" height="28"/>
-</a>
-
-<a href="https://wa.me/6281234567890" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="28" height="28"/>
 </a>
 
