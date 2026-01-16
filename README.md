@@ -70,9 +70,9 @@ You can find examples of my work in my GitHub repositories:
   <img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/user-attachments/assets/cd34a281-bfe3-4279-a57d-b843f982ae2a
-" target="_blank">
+<a href="https://wa.me/6281234567890?text=Hello%20Alfa,%20I%20found%20your%20GitHub" target="_blank">
   <img src="https://skillicons.dev/icons?i=whatsapp" width="28" height="28"/>
 </a>
+
 
 
