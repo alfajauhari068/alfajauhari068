@@ -65,7 +65,7 @@ You can find examples of my work in my GitHub repositories:
   <img src="https://skillicons.dev/icons?i=github" width="18" height="18"/>
   alfajauhari_068
 </a>
-
+&nbsp;&nbsp;
 <a href="https://alfajauhari068@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=email" width="18" height="18"/>
   alfajauhari_068@gmail.com
