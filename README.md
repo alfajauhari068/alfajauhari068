@@ -66,7 +66,7 @@ You can find examples of my work in my GitHub repositories:
   <img src="https://skillicons.dev/icons?i=github" width="28" height="28"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/Alfa - dev" target="_blank">
+<a href="www.linkedin.com/in/alfa-jauhari-781915303" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28"/>
 </a>
 
