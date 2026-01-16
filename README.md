@@ -74,5 +74,10 @@ You can find examples of my work in my GitHub repositories:
   <img src="https://skillicons.dev/icons?i=whatsapp" width="28" height="28"/>
 </a>
 
+<a href="https://wa.me/6281234567890" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" width="28" height="28"/>
+</a>
+
+
 
 
