@@ -61,6 +61,10 @@ You can find examples of my work in my GitHub repositories:
 ---
 
 ## 📫 Contact
-<img src="https://skillicons.dev/icons?i=github" width="28" height="28"/> - **GitHub**: https://github.com/alfajauhari068
+<a href="https://github.com/alfajauhari068" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="28" height="28"/>
+  GitHub
+</a>
+
   
 - **Email**: alfajauhari068@gmail.com
