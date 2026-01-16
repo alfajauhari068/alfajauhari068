@@ -66,9 +66,13 @@ You can find examples of my work in my GitHub repositories:
   <img src="https://skillicons.dev/icons?i=github" width="28" height="28"/>
 </a>
 &nbsp;&nbsp;
-<a href="www.linkedin.com/in/alfa-jauhari-781915303" target="_blank">
+<a href="https://linkedin.com/in/alfa-jauhari-781915303" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28"/>
 </a>
-
+&nbsp;&nbsp;
+<a href="https://github.com/user-attachments/assets/cd34a281-bfe3-4279-a57d-b843f982ae2a
+" target="_blank">
+  <img src="https://skillicons.dev/icons?i=whatsapp" width="28" height="28"/>
+</a>
 
 
