@@ -61,14 +61,14 @@ You can find examples of my work in my GitHub repositories:
 ---
 
 ## 📫 Contact
+
 <a href="https://github.com/alfajauhari068" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="18" height="18"/>
-  alfajauhari_068
+  <img src="https://skillicons.dev/icons?i=github" width="28" height="28"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://alfajauhari068@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=email" width="18" height="18"/>
-  alfajauhari_068@gmail.com
+<a href="https://linkedin.com/in/USERNAME" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="28" height="28"/>
 </a>
+
 
 
