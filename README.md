@@ -54,7 +54,7 @@ I primarily work with **Laravel (PHP)** for backend development and **Flutter (D
 ## 📂 Projects
 
 You can find examples of my work in my GitHub repositories:  
-🔗 https://github.com/alfajauhari068  
+🔗 [https://github.com/alfajauhari068](https://github.com/repos)  
 
 *(Project highlights can be added here if needed.)*
 
