@@ -1,165 +1,198 @@
 <!-- ========================================================= -->
 
-<!--                    ALFA JAUHARI PROFILE                   -->
+<!--                  ALFA JAUHARI PROFILE                     -->
+
+<!--              Animated Professional Edition                -->
 
 <!-- ========================================================= -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=180&section=header&text=ALFA%20JAUHARI&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Laravel%20%C2%B7%20Flutter%20%C2%B7%20REST%20API&descAlignY=62&descSize=17&animation=fadeIn"
-    width="100%"
-  />
-</p>
+<p align="center">   <img     src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4&height=240&section=header&text=ALFA%20JAUHARI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20LARAVEL%20%C2%B7%20FLUTTER%20%C2%B7%20REST%20API&descAlignY=62&descSize=17&animation=fadeIn"     width="100%"   /> </p>
 
-<p align="center">
-  <a href="https://github.com/alfajauhari068">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/alfa-jauhari-781915303">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<p align="center">   <img     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+Practical+Digital+Solutions;Turning+Problems+into+Software;Laravel+%7C+Flutter+%7C+REST+API;Think+Clearly.+Build+Intentionally.+Improve+Continuously."     alt="Typing animation"   /> </p>
 
-<p align="center">
-  <strong>Think clearly. Build intentionally. Improve continuously.</strong>
-</p>
+<p align="center">   <a href="https://github.com/alfajauhari068">     <img src="https://img.shields.io/badge/GitHub-alfajauhari068-020617?style=for-the-badge&logo=github&logoColor=white" />   </a>   <a href="https://linkedin.com/in/alfa-jauhari-781915303">     <img src="https://img.shields.io/badge/LinkedIn-Alfa%20Jauhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />   </a> </p>
 
----
+<p align="center">   <img src="https://komarev.com/ghpvc/?username=alfajauhari068&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS" /> </p>
 
-## About
+<br>
 
-I'm **Alfa Jauhari**, an undergraduate student and software developer focused on building **practical digital solutions for real-world problems**.
+<!-- ========================================================= -->
 
-My primary development stack is **Laravel and PHP** for web applications, supported by **MySQL, REST APIs, Bootstrap, and Tailwind CSS**. I also develop mobile applications using **Flutter and Dart**.
+<!--                        INTRO                              -->
 
-I am particularly interested in turning operational requirements into software that is:
+<!-- ========================================================= -->
 
-* **Practical** — built around real user and organizational needs
-* **Structured** — developed with clear architecture and maintainable code
-* **Usable** — focused on responsive interfaces and straightforward workflows
-* **Scalable** — designed with future improvements and integrations in mind
+## `01` — About Me
 
-> I don't build software just to make it work.
-> I build it to make the problem easier to solve.
+<table> <tr> <td width="55%" valign="top">
 
----
+### Hello, I'm Alfa.
 
-## What I Build
+I'm an undergraduate student and software developer focused on building **practical digital solutions for real-world problems**.
+
+My primary stack is **Laravel + PHP + MySQL** for web applications and **Flutter + Dart** for mobile development.
+
+I enjoy taking an idea, requirement, or operational problem and turning it into a structured software solution.
+
+</td>
+
+<td width="45%" valign="top">
 
 ```text
-Real-world problem
-        │
-        ▼
-Understand the requirements
-        │
-        ▼
-Design the system
-        │
-        ▼
-Build the application
-        │
-        ▼
-Test & improve
-        │
-        ▼
-Practical solution
+╭──────────────────────────────╮
+│       DEVELOPER PROFILE      │
+├──────────────────────────────┤
+│                              │
+│  Backend       Laravel       │
+│  Database      MySQL        │
+│  API           REST         │
+│  Frontend      Bootstrap    │
+│  Mobile        Flutter      │
+│  Workflow      Git / Docker │
+│                              │
+╰──────────────────────────────╯
 ```
 
-My development interests include:
-
-* Web-based information systems
-* Government and organizational applications
-* Business management systems
-* REST API development
-* Database-driven applications
-* Mobile applications
-* Administrative dashboards
-* Digitalization of manual workflows
+</td> </tr> </table>
 
 ---
 
-## Tech Stack
+<p align="center">   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:06B6D4&height=2&section=header" width="85%" /> </p>
+
+## `02` — Engineering Mindset
+
+<p align="center">
+
+```text
+      UNDERSTAND
+          │
+          ▼
+       ANALYZE
+          │
+          ▼
+        DESIGN
+          │
+          ▼
+         BUILD
+          │
+          ▼
+         TEST
+          │
+          ▼
+        IMPROVE
+```
+
+</p>
+
+> **Software is not the goal. Solving the problem is.**
+
+I approach development around five principles:
+
+|     Principle     | What it means                             |
+| :---------------: | ----------------------------------------- |
+| 🧠 **Understand** | Identify the actual problem before coding |
+|  🧩 **Structure** | Design data, workflow, and architecture   |
+|    ⚙️ **Build**   | Implement a practical solution            |
+|    🧪 **Test**    | Validate functionality and reliability    |
+|   ♻️ **Improve**  | Refactor, optimize, and evolve            |
+
+---
+
+## `03` — Technology Stack
+
+<p align="center">   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap,tailwind,flutter,dart,git,github,docker,figma,vscode&perline=8" /> </p>
+
+<br>
+
+<table align="center"> <tr> <td align="center" width="25%">
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
-</p>
+`PHP`
+`Laravel`
+`REST API`
 
-**PHP · Laravel · MySQL · REST API**
+</td>
+
+<td align="center" width="25%">
+
+### Database
+
+`MySQL`
+`MariaDB`
+
+</td>
+
+<td align="center" width="25%">
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
-</p>
+`HTML`
+`CSS`
+`JavaScript`
+`Bootstrap`
+`Tailwind`
 
-**HTML5 · CSS3 · JavaScript · Bootstrap · Tailwind CSS**
+</td>
+
+<td align="center" width="25%">
 
 ### Mobile
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
+`Flutter`
+`Dart`
 
-**Flutter · Dart**
-
-### Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,composer,npm,figma,vscode" />
-</p>
-
-**Git · GitHub · Docker · Composer · npm · Figma · VS Code**
+</td> </tr> </table>
 
 ---
 
-## Selected Projects
+<p align="center">   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:2563EB&height=2&section=header" width="85%" /> </p>
+
+## `04` — Selected Projects
 
 ### 🏛️ DLH Information System
 
-**Laravel · PHP · MySQL · Bootstrap · Tailwind CSS**
+<p align="left">   <img src="https://img.shields.io/badge/STATUS-COMPLETED-22C55E?style=flat-square" />   <img src="https://img.shields.io/badge/LARAVEL-PHP-FF2D20?style=flat-square&logo=laravel&logoColor=white" />   <img src="https://img.shields.io/badge/MYSQL-DATABASE-4479A1?style=flat-square&logo=mysql&logoColor=white" /> </p>
 
-A web-based information and service platform developed for **Dinas Lingkungan Hidup (DLH)**.
+A digital information and public service platform developed for **Dinas Lingkungan Hidup (DLH)**.
 
-The project focuses on improving the presentation and management of institutional information, public services, publications, news, PPID content, agendas, galleries, and administrative content.
+The system focuses on institutional information, public services, publications, PPID content, news, agendas, galleries, announcements, and administrative management.
 
-**Focus**
+**Key focus**
 
-* Information management
-* Public service information
-* CMS administration
-* Responsive government website
-* Role-based administration
-* Structured content management
+```text
+Public Information
+      +
+Service Information
+      +
+Content Management
+      +
+Administrative System
+```
 
 ---
 
 ### 🎓 CampusFreelance
 
-**Laravel · PHP · MySQL · Blade**
+<p align="left">   <img src="https://img.shields.io/badge/STATUS-DEVELOPMENT-F59E0B?style=flat-square" />   <img src="https://img.shields.io/badge/LARAVEL-PHP-FF2D20?style=flat-square&logo=laravel&logoColor=white" />   <img src="https://img.shields.io/badge/MYSQL-DATABASE-4479A1?style=flat-square&logo=mysql&logoColor=white" /> </p>
 
-A student-oriented freelance marketplace designed to connect students with project opportunities.
-
-The project explores how software can facilitate the relationship between students, services, projects, and digital work.
+A student-oriented freelance marketplace designed to connect students with project opportunities and digital services.
 
 **Focus**
 
 * Marketplace workflow
 * User management
 * Project management
+* Service ecosystem
 * Database-driven application
-* Student digital ecosystem
 
 ---
 
 ### 🧱 UD. Lestari Batako
 
-**Laravel · PHP · MySQL · Blade**
+<p align="left">   <img src="https://img.shields.io/badge/STATUS-COMPLETED-22C55E?style=flat-square" />   <img src="https://img.shields.io/badge/LARAVEL-PHP-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> </p>
 
-A web-based management application developed to support business operations and administrative processes.
-
-The project represents my approach to translating real business requirements into a structured information system.
+A business management application designed to transform operational processes into a structured digital workflow.
 
 **Focus**
 
@@ -171,102 +204,68 @@ The project represents my approach to translating real business requirements int
 
 ---
 
-## Development Focus
-
-Currently, I am focusing on improving my capabilities in:
+## `05` — Current Focus
 
 ```text
-Full-Stack Development
-        │
-        ├── Laravel Architecture
-        ├── REST API
-        ├── Database Design
-        ├── Authentication & Authorization
-        ├── Responsive UI
-        ├── Software Testing
-        └── Deployment & DevOps
+╭──────────────────────────────────────────────────────╮
+│                  CURRENT FOCUS                        │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  ███████████████████░░░  Full-Stack Development     │
+│  █████████████████░░░░░  Laravel Architecture       │
+│  ████████████████░░░░░░  REST API                   │
+│  ██████████████░░░░░░░░  Database Design            │
+│  █████████████░░░░░░░░░  Software Testing           │
+│  ████████████░░░░░░░░░░  Deployment & DevOps        │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
 ```
 
-I am also exploring better practices in:
+Currently improving:
 
-* Clean and maintainable code
-* Application architecture
-* API integration
-* System analysis
+* Full-stack application architecture
+* REST API development
+* Database design
+* Authentication & authorization
 * Software testing
 * Git workflow
-* Containerized development
+* Docker-based development
 * Production deployment
 
 ---
 
-## Engineering Mindset
+## `06` — GitHub Activity
 
-I believe software development is not only about choosing the right programming language or framework.
+<p align="center">   <img     src="https://github-readme-stats.vercel.app/api?username=alfajauhari068&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&icon_color=22D3EE"     height="170"   />   <img     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfajauhari068&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1"     height="170"   /> </p>
 
-The important part is understanding **why the system needs to exist in the first place**.
-
-My approach is:
-
-| Principle      | Approach                                          |
-| -------------- | ------------------------------------------------- |
-| **Understand** | Identify the actual problem before writing code   |
-| **Design**     | Define structure, workflow, and data requirements |
-| **Build**      | Implement the simplest effective solution         |
-| **Test**       | Verify functionality and identify weaknesses      |
-| **Improve**    | Refactor and evolve the system over time          |
-
-This mindset helps me avoid building software that is technically functional but practically useless.
+<p align="center">   <img     src="https://streak-stats.demolab.com?user=alfajauhari068&hide_border=true&background=0F172A&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B"     width="72%"   /> </p>
 
 ---
 
-## GitHub Activity
+## `07` — Contribution Graph
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=alfajauhari068&show_icons=true&hide_border=true&theme=transparent"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfajauhari068&layout=compact&hide_border=true&theme=transparent"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=alfajauhari068&hide_border=true&theme=transparent"
-    width="70%"
-  />
-</p>
+<p align="center">   <img     src="https://github-readme-activity-graph.vercel.app/graph?username=alfajauhari068&bg_color=0F172A&color=CBD5E1&line=38BDF8&point=22D3EE&area=true&hide_border=true"     width="95%"   /> </p>
 
 ---
 
-## Let's Connect
+<p align="center">   <img     src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:020617&height=120&section=footer"     width="100%"   /> </p>
 
-If you're interested in discussing:
+## `08` — Let's Connect
 
-* Software development
-* Web applications
-* Laravel projects
-* Flutter applications
-* REST API
-* Academic or research projects
-* Collaboration and development projects
+I'm open to discussions and collaboration around:
 
-Feel free to connect.
+`Web Development` · `Laravel` · `Flutter` · `REST API` · `Software Projects` · `Academic Projects`
 
 <p align="center">
-  <a href="https://github.com/alfajauhari068">
-    <img src="https://img.shields.io/badge/GitHub-alfajauhari068-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/alfa-jauhari-781915303">
-    <img src="https://img.shields.io/badge/LinkedIn-Alfa%20Jauhari-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+<a href="https://github.com/alfajauhari068"> <img src="https://img.shields.io/badge/GITHUB-alfajauhari068-020617?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+<a href="https://linkedin.com/in/alfa-jauhari-781915303"> <img src="https://img.shields.io/badge/LINKEDIN-Alfa%20Jauhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
 </p>
 
----
+<br>
 
-<p align="center">
-  <sub>Building practical software, one problem at a time.</sub>
-</p>
+<p align="center">   <strong>Think clearly.</strong><br>   <strong>Build intentionally.</strong><br>   <strong>Improve continuously.</strong> </p>
+
+<p align="center">   <sub>Building practical software, one problem at a time.</sub> </p>
