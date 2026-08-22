@@ -44,11 +44,11 @@ I enjoy taking an idea, requirement, or operational problem and turning it into 
 ├──────────────────────────────┤
 │                              │
 │  Backend       Laravel       │
-│  Database      MySQL        │
-│  API           REST         │
-│  Frontend      Bootstrap    │
-│  Mobile        Flutter      │
-│  Workflow      Git / Docker │
+│  Database      MySQL         │
+│  API           REST          │
+│  Frontend      Bootstrap     │
+│  Mobile        Flutter       │
+│  Workflow      Git / Docker  │
 │                              │
 ╰──────────────────────────────╯
 ```
