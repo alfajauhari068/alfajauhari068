@@ -87,9 +87,9 @@ I enjoy taking an idea, requirement, or operational problem and turning it into 
 > **Software is not the goal. Solving the problem is.**
 
 I approach development around five principles:
-
-|     Principle     | What it means                             |
-| :---------------: | ----------------------------------------- |
+ 
+|     Principle     | What it means                              |
+| :---------------: | -----------------------------------------  |
 | 🧠 **Understand** | Identify the actual problem before coding |
 |  🧩 **Structure** | Design data, workflow, and architecture   |
 |    ⚙️ **Build**   | Implement a practical solution            |
@@ -208,15 +208,15 @@ A business management application designed to transform operational processes in
 
 ```text
 ╭──────────────────────────────────────────────────────╮
-│                  CURRENT FOCUS                        │
+│                  CURRENT FOCUS                       │
 ├──────────────────────────────────────────────────────┤
 │                                                      │
-│  ███████████████████░░░  Full-Stack Development     │
-│  █████████████████░░░░░  Laravel Architecture       │
-│  ████████████████░░░░░░  REST API                   │
-│  ██████████████░░░░░░░░  Database Design            │
-│  █████████████░░░░░░░░░  Software Testing           │
-│  ████████████░░░░░░░░░░  Deployment & DevOps        │
+│  ███████████████████░░░  Full-Stack Development      │
+│  █████████████████░░░░░  Laravel Architecture        │
+│  ████████████████░░░░░░  REST API                    │
+│  ██████████████░░░░░░░░  Database Design             │
+│  █████████████░░░░░░░░░  Software Testing            │
+│  ████████████░░░░░░░░░░  Deployment & DevOps         │
 │                                                      │
 ╰──────────────────────────────────────────────────────╯
 ```
